@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://your-domain.example with the real domain before publishing (see README). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://your-domain.example/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/how-to.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/how-to.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/how-to.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/how-to.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/how-to.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/how-to.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/how-to.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/how-to.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/faq.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/faq.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/faq.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/faq.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/labels.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/labels.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/labels.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/labels.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/labels.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/labels.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/labels.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/labels.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/support.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/support.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/support.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/support.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/privacy.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/privacy.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/data-protection.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/data-protection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/data-protection.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/data-protection.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/data-protection.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/data-protection.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/data-protection.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/data-protection.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/imprint.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/imprint.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/imprint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/imprint.html"/>
+  </url>
+  <url>
+    <loc>https://your-domain.example/de/imprint.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://your-domain.example/de/imprint.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.example/imprint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.example/imprint.html"/>
+  </url>
+</urlset>
