@@ -135,7 +135,7 @@ img, svg { max-width: 100%; }
   color: var(--color-ink);
   text-decoration: none;
 }
-.brand svg { width: 34px; height: 34px; flex: none; }
+.brand img { width: 34px; height: 34px; flex: none; border-radius: 8px; }
 
 .site-nav ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 4px 20px; flex-wrap: wrap; }
 .site-nav a { color: var(--color-ink-muted); text-decoration: none; font-weight: 600; font-size: var(--step--1); padding: 6px 0; }

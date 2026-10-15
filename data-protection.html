@@ -73,7 +73,6 @@
  ]
 }
 </script>
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="assets/site.css">
 <script src="assets/site.js" defer></script>
 </head>
@@ -81,12 +80,7 @@
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="index.html"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false">
-  <rect x="4" y="4" width="56" height="56" rx="18" fill="#17203a"/>
-  <rect x="9" y="9" width="46" height="46" rx="14" fill="none" stroke="#ffd60a" stroke-width="4"/>
-  <path d="M15 33 Q32 17 49 33 Q32 49 15 33Z" fill="#fff"/>
-  <circle cx="32" cy="33" r="7.5" fill="#2c43c4"/><circle cx="32" cy="33" r="3.2" fill="#17203a"/>
-  <circle cx="34.5" cy="30.5" r="1.6" fill="#fff"/></svg>Better Eyes</a>
+    <a class="brand" href="index.html"><img src="assets/brand-icon.png" srcset="assets/brand-icon.png 1x, assets/brand-icon@2x.png 2x" width="34" height="34" alt="">Better Eyes</a>
     <nav class="site-nav" aria-label="Main"><ul><li><a href="index.html">Home</a></li><li><a href="how-to.html">How to use</a></li><li><a href="faq.html">FAQ</a></li><li><a href="labels.html">Photo labels</a></li><li><a href="support.html">Support</a></li></ul></nav>
     <nav class="language-switch" aria-label="Language"><a href="data-protection.html" lang="en" hreflang="en" aria-current="true"><span class="flag" role="img" aria-label="Flag of the United Kingdom" title="English">🇬🇧</span> English</a><span aria-hidden="true">/</span><a href="de/data-protection.html" lang="de" hreflang="de"><span class="flag" role="img" aria-label="Flag of Germany" title="Deutsch">🇩🇪</span> Deutsch</a></nav>
   </div>
@@ -99,11 +93,10 @@
     <p>Formal information under Articles 13 and 14 of the EU General Data Protection Regulation (GDPR). For a plain-language overview, see the <a href="privacy.html">privacy policy</a>.</p>
   </header>
   <div class="prose">
-    <p class="last-updated">Last updated: 15 October 2026. <span class="todo">Draft: have this reviewed by someone qualified in data protection law, fill in the placeholders, then remove this note.</span></p>
+    <p class="last-updated">Last updated: 15 October 2026.</p>
 
     <h2>1. Controller</h2>
-    <p><span class="todo">[Company or full name]</span><br><span class="todo">[Street and number, postcode, city, country]</span><br>Email: <span class="todo">support@your-domain</span></p>
-    <p>Data protection officer: <span class="todo">[name and contact, or remove this line if you are not required to appoint one]</span></p>
+    <p>Aralel GmbH<br>Josefstr 66 52080 Aachen DE<br>Email: bettereyes@aralel.com</p>
 
     <h2>2. The app: processing on your device</h2>
     <p>Better Eyes processes the photos you choose, and the face positions found in them, only on your device. This data is not transmitted to us or to third parties, and we have no access to it. The history of recent fixes (references to the photos, your chosen favorite and picks) is also stored only on your device and can be deleted by you at any time in the app, by clearing the app's data or by uninstalling.</p>
@@ -117,7 +110,7 @@
           <td>Content Credentials certificate (Android, where enabled)</td>
           <td>Public key generated on your device, Android build identifier, app version, IP address (technically required for the connection)</td>
           <td>Art. 6(1)(f) GDPR: our legitimate interest, and yours, in reliably labelling edited photos</td>
-          <td><span class="todo">[e.g. issued certificates for their validity period; connection logs 7 days]</span></td>
+          <td>The IP address is not stored by us beyond the request itself. The public key and request details are kept only as long as needed to operate and secure the service, and no longer than 12 months</td>
         </tr>
         <tr>
           <td>Support requests</td>
@@ -129,13 +122,13 @@
           <td>Providing this website</td>
           <td>IP address, date and time, page requested, browser user agent, referrer (server logs)</td>
           <td>Art. 6(1)(f) GDPR: secure and reliable operation of the website</td>
-          <td><span class="todo">[e.g. 7 days]</span></td>
+          <td>Server logs are deleted after a short period, at most 7 days, unless needed to investigate a security incident</td>
         </tr>
       </tbody>
     </table>
 
     <h2>4. Website</h2>
-    <p>This website is hosted by <span class="todo">[hosting provider, address]</span>, which processes server logs on our behalf under a data processing agreement (Art. 28 GDPR). The website sets no cookies, uses no tracking or analytics, and loads no content from third parties (such as fonts, maps, videos or social media buttons). Nothing is stored on your device, so no consent banner is needed.</p>
+    <p>This website is hosted by IONOS, which processes server logs on our behalf under a data processing agreement (Art. 28 GDPR). The website sets no cookies, uses no tracking or analytics, and loads no content from third parties (such as fonts, maps, videos or social media buttons). Nothing is stored on your device, so no consent banner is needed.</p>
 
     <h2>5. Third parties and their own responsibility</h2>
     <ul>
@@ -145,7 +138,7 @@
     </ul>
 
     <h2>6. Transfers outside the EU</h2>
-    <p>We don't transfer personal data to countries outside the EU/EEA ourselves. <span class="todo">[If your hosting or signing service is outside the EU/EEA, name the safeguard here, e.g. the EU–US Data Privacy Framework or standard contractual clauses.]</span></p>
+    <p>We don't transfer personal data to countries outside the EU/EEA ourselves.</p>
 
     <h2>7. Automated decisions</h2>
     <p>There is no automated decision-making or profiling within the meaning of Art. 22 GDPR. The app's suggestions of "best" eyes and smiles are only suggestions about your photos, made on your device.</p>
@@ -158,9 +151,9 @@
       <li>restrict its processing (Art. 18),</li>
       <li>receive it in a portable format (Art. 20),</li>
       <li>object to processing based on legitimate interests (Art. 21),</li>
-      <li>lodge a complaint with a supervisory authority (Art. 77), in particular in the EU member state where you live or work. Our lead authority is <span class="todo">[name of the competent supervisory authority]</span>.</li>
+      <li>lodge a complaint with a supervisory authority (Art. 77), in particular in the EU member state where you live or work. The authority responsible for us is the Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW), Postfach 20 04 44, 40102 Düsseldorf, Germany.</li>
     </ul>
-    <p>Because photos and history stay on your device, you can delete them yourself at any time. To exercise any right, email <span class="todo">support@your-domain</span>.</p>
+    <p>Because photos and history stay on your device, you can delete them yourself at any time. To exercise any right, email bettereyes@aralel.com.</p>
 
     <h2>9. Is providing data required?</h2>
     <p>No. You can use the app without giving us any personal data. Without the certificate request on Android, photos are still labelled, just without Content Credentials.</p>
@@ -176,7 +169,7 @@
     <div>
       <h2>Better Eyes</h2>
       <p>Fix closed eyes and missed smiles using the other shots you took. Everything happens on your phone.</p>
-      <p>&copy; <span data-current-year>2026</span> <span class="todo">[Company or full name]</span></p>
+      <p>&copy; <span data-current-year>2026</span> Aralel GmbH</p>
     </div>
     <div>
       <h2>Using the app</h2>

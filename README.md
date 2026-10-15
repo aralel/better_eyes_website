@@ -16,9 +16,9 @@ picked by `<html lang>`. The `hreflang` links are relative; switch them to absol
 ## SEO, social sharing and LLM discovery
 
 - Each page has a canonical URL, absolute `hreflang` links (en/de/x-default), a robots meta tag (the 404 is `noindex`),
-  Open Graph and Twitter card tags with `assets/og-image.png` (1200 x 630; source `assets/og-image.svg`), and JSON-LD:
+  Open Graph and Twitter card tags with `assets/og-image.png` (1200 x 630), and JSON-LD:
   `MobileApplication` + `WebSite` on the home pages, `FAQPage` on the FAQ (copied from the visible answers), `HowTo` on
-  the guide, `BreadcrumbList` everywhere. Index pages use the directory URL (`/`, `/de/`). Icons: `favicon.svg`,
+  the guide, `BreadcrumbList` everywhere. Index pages use the directory URL (`/`, `/de/`). Icons: `brand-icon.png`,
   `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`.
 - `sitemap.xml` lists every page with `xhtml:link` language alternates. `robots.txt` allows all crawlers, AI crawlers
   named explicitly, and points to the sitemap.
